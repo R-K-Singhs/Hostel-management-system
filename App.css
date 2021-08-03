@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  /* background: url("./images/background3.jpg") center center/cover no-repeat; */
+  background-color: white;
+  font-family: "PT Sans", sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}

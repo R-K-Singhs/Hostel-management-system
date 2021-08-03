@@ -1,0 +1,20 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.horizontal-scroll {
+  overflow-x: auto;
+}
+.card {
+  min-width: 12rem;
+}
+.carousel-item img {
+  height: 400px;
+}
+.vertical-scroll {
+  overflow-y: auto;
+  height: 15rem;
+}
+.complaints-container {
+  background-color: white;
+}
